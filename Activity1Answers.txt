@@ -1,0 +1,13 @@
+1. Light interacts differently based on the objects make up. If the object is black then the more light will be absorbed, but if the object is a mirror it will be reflected. Light also interacts differently in various environments such as a hotter or colder place. 
+
+2. Everyone has different eyes and the colors that they see due to the various light hitting these objects. 
+
+3. The YUV color space benefits human perception. 
+
+4. Colors are added differently for lights because light works in a different way. RGB in paint mixes into a different color, while light may mix and appear with different shades as opposed to the paint which will be a solid color. 
+
+5. Green is a color that is unlike the human skin tone so a green screen will pop in the back and will be easier for cameras to pick up what is not green. 
+
+6. Tone mapping is needed to make the image look realistic on a display which wouldn't be seen otherwise. 
+
+7. wavelenghts are reflected back into our eyes so every wave length has a corresponding color. 
